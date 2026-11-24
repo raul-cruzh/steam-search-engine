@@ -1,0 +1,83 @@
+{
+  "app_id": "730",
+  "url": "https://store.steampowered.com/app/730/?l=english",
+  "title": "Counter-Strike 2",
+  "developer": [
+    "Valve"
+  ],
+  "publisher": [
+    "Valve"
+  ],
+  "release_date": "21 Aug, 2012",
+  "genres": [
+    "Action",
+    "Free To Play"
+  ],
+  "tags": [
+    "FPS",
+    "Shooter",
+    "Multiplayer",
+    "Competitive",
+    "Action",
+    "Team-Based",
+    "eSports",
+    "Tactical",
+    "First-Person",
+    "PvP",
+    "Online Co-Op",
+    "Co-op",
+    "Strategy",
+    "Military",
+    "War",
+    "Trading",
+    "Difficult",
+    "Realistic",
+    "Fast-Paced",
+    "Moddable"
+  ],
+  "features": [
+    "Multi-player",
+    "Cross-Platform Multiplayer",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "In-App Purchases",
+    "Stats",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Steam Timeline"
+  ],
+  "short_description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+  "full_description": "For over two decades, Counter Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter Strike 2. A free upgrade to CS:GO, Counter Strike 2 marks the largest technical leap in Counter Strike’s history. Built on the Source 2 engine, Counter Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools. In addition to the classic objective-focused gameplay that Counter Strike pioneered in 1999, Counter Strike 2 features: All-new CS Ratings with the updated Premier mode Global and Regional leaderboards Upgraded and overhauled maps Game-changing dynamic smoke grenades Tick-rate-independent gameplay Redesigned visual effects and audio All items from CS:GO moving forward to CS2",
+  "supported_languages": [
+    "English",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "French",
+    "German",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Romanian",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Spain",
+    "Swedish",
+    "Thai",
+    "Traditional Chinese",
+    "Turkish",
+    "Bulgarian",
+    "Ukrainian",
+    "Greek",
+    "Spanish - Latin America",
+    "Vietnamese",
+    "Indonesian"
+  ]
+}
